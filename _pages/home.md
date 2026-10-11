@@ -18,7 +18,7 @@ permalink: /
 
 <div class="banner-frame" markdown="0">
 <img src="{{ '/images/baner.png' | relative_url }}" alt="Feynman diagrams" width="1400" height="449" loading="lazy">
-<div class="banner-caption">Represent the Physics Department in ASIIN accreditation 2026</div>
+<div class="banner-caption">Student Representative for the 2026 ASIIN Accreditation Process — Department of Physics, Diponegoro University</div>
 </div>
 
 Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
