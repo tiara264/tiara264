@@ -25,12 +25,6 @@ Theoretical physics is a branch of physics that focuses on the development of ma
 It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
 Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
 
-<div class="callout callout-success" markdown="0">
-<div class="callout-title">{% include icon.html name="award" class="callout-icon" %} Nobel Prize in Physics, 1965</div>
-<p>Awarded the Nobel Prize jointly with Julian Schwinger and Shin'ichiro Tomonaga for fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles.</p>
-</div>
-
-
 ## About me
 
 I am an undergraduate Physics student at Diponegoro University, Indonesia, with a strong interest in understanding the fundamental laws of nature through theoretical physics, mathematical modeling, and computational methods.
